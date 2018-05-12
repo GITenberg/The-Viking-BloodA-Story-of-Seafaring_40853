@@ -1,0 +1,26 @@
+_repo: The-Viking-BloodA-Story-of-Seafaring_40853
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40853-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wallace, Frederick William
+    birthdate: 1886
+    deathdate: 1958
+    gutenberg_agent_id: '40854'
+    url: http://www.gutenberg.org/2009/agents/40854
+description: ''
+gutenberg_issued: '2012-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Seafaring life -- Fiction'
+title: 'The Viking Blood: A Story of Seafaring'
+url: http://www.gutenberg.org/ebooks/40853
